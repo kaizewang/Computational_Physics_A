@@ -1,0 +1,9 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'homework1.blg'
+[34] biber-MSWIN32:315> INFO - === 
+[62] Biber.pm:371> INFO - Reading 'homework1.bcf'
+[160] Biber.pm:889> INFO - Found 0 citekeys in bib section 0
+[168] Utils.pm:193> WARN - The file 'homework1.bcf' does not contain any citations!
+[177] bbl.pm:636> INFO - Writing 'homework1.bbl' with encoding 'UTF-8'
+[177] bbl.pm:739> INFO - Output to homework1.bbl
+[178] Biber.pm:110> INFO - WARNINGS: 1

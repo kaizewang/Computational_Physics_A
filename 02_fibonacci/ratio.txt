@@ -1,0 +1,7 @@
+The ratio of relation X_n-1<X_n+1<X_n in fibonacci generator with (q,p)=(55,24) is: 0.166650	-0.000017
+The ratio of relation X_n-1<X_n+1<X_n in fibonacci generator with (q,p)=(89,38) is: 0.167940	0.001273
+The ratio of relation X_n-1<X_n+1<X_n in fibonacci generator with (q,p)=(100,37) is: 0.166700	0.000033
+The ratio of relation X_n-1<X_n+1<X_n in fibonacci generator with (q,p)=(127,30) is: 0.165650	-0.001017
+The ratio of relation X_n-1<X_n+1<X_n in fibonacci generator with (q,p)=(250,103) is: 0.166190	-0.000477
+The ratio of relation X_n-1<X_n+1<X_n in fibonacci generator with (q,p)=(31,3) is: 0.168060	0.001393
+The ratio of relation X_n-1<X_n+1<X_n in 16807 generator is: 0.165300	-0.001367
