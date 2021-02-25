@@ -22,9 +22,9 @@ This course covers a wide range of basics of compuational physics. The homework 
 17. Diffusive limited aggregation simulation
 18. Numerov method to solve Shrodinger equations with a symmetric potential 
 
-    ​										<img src="https://github.com/kaizewang/Computational_Physics_A/raw/master/pictures/display.png" alt="Image" style="zoom: 60%;" />     
+    ​															<img src="https://github.com/kaizewang/Computational_Physics_A/raw/master/pictures/display.png" alt="Image" style="zoom: 33%;" />     
 
 ​         
 
- 								<img src="https://github.com/kaizewang/Computational_Physics_A/raw/master/pictures/rw.gif" alt="Image"  />   
-=======
+<img src="https://github.com/kaizewang/Computational_Physics_A/raw/master/pictures/rw.gif" alt="Image" style="zoom: 50%;" />
+
