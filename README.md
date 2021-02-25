@@ -5,7 +5,6 @@ This course covers a wide range of basics of compuational physics. The homework 
 1. Use Schrage method to generate pseudo random numbers.
 2. Use Fibonacci method to generate pseudo random numbers.
 3. Uniform sampling in a sphere
-<<<<<<< HEAD
 4. Sampling according to a specific probability distribution function.
 5. Marsaglia sampling method
 6. Acceptance-rejection sampling
@@ -22,9 +21,11 @@ This course covers a wide range of basics of compuational physics. The homework 
 17. Diffusive limited aggregation simulation
 18. Numerov method to solve Shrodinger equations with a symmetric potential 
 
-    ​															<img src="https://github.com/kaizewang/Computational_Physics_A/raw/master/pictures/display.png" alt="Image" style="zoom: 33%;" />     
+    <div align=center><img src="https://github.com/kaizewang/Computational_Physics_A/raw/master/pictures/display.png" alt="Image" width="400" height="300"/>
 
-​         
+​     
 
-<img src="https://github.com/kaizewang/Computational_Physics_A/raw/master/pictures/rw.gif" alt="Image" style="zoom: 50%;" />
+
+
+<div align=center><img src="https://github.com/kaizewang/Computational_Physics_A/raw/master/pictures/rw.gif" alt="Image" width="400" height="300"/>
 
